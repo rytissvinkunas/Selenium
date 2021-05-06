@@ -74,12 +74,6 @@ namespace Homework
 
             Assert.AreEqual("ORDER CONFIRMATION", orderConfirmation.Text, "Order Confirmed");//5.	Finish buying the item
             Assert.AreEqual("Your order on My Store is complete.", itemBought.Text, "Item bought confirmed");//6.	Validate that the order is completed
-
-
-
-
-
-
         }
     }
 }

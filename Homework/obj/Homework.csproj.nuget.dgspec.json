@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RytisSvinkūnas\\Desktop\\tuta\\9 paskaita\\Homework\\Homework\\Homework.csproj": {}
+    "C:\\Users\\RytisSvinkūnas\\Desktop\\selenium\\Homework\\Homework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RytisSvinkūnas\\Desktop\\tuta\\9 paskaita\\Homework\\Homework\\Homework.csproj": {
+    "C:\\Users\\RytisSvinkūnas\\Desktop\\selenium\\Homework\\Homework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RytisSvinkūnas\\Desktop\\tuta\\9 paskaita\\Homework\\Homework\\Homework.csproj",
+        "projectUniqueName": "C:\\Users\\RytisSvinkūnas\\Desktop\\selenium\\Homework\\Homework.csproj",
         "projectName": "Homework",
-        "projectPath": "C:\\Users\\RytisSvinkūnas\\Desktop\\tuta\\9 paskaita\\Homework\\Homework\\Homework.csproj",
+        "projectPath": "C:\\Users\\RytisSvinkūnas\\Desktop\\selenium\\Homework\\Homework.csproj",
         "packagesPath": "C:\\Users\\RytisSvinkūnas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RytisSvinkūnas\\Desktop\\tuta\\9 paskaita\\Homework\\Homework\\obj\\",
+        "outputPath": "C:\\Users\\RytisSvinkūnas\\Desktop\\selenium\\Homework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RytisSvinkūnas\\AppData\\Roaming\\NuGet\\NuGet.Config",
