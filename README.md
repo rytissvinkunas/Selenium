@@ -11,3 +11,4 @@ Test webpage with Selenium and fulfill these Tests:
 •	Validate that it finds the item
 •	Finish buying the item
 •	Validate that the order is completed
+
